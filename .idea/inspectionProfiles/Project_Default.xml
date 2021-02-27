@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="css" />
+            <item index="1" class="java.lang.String" itemvalue="static\css\style.css" />
+            <item index="2" class="java.lang.String" itemvalue="static" />
+            <item index="3" class="java.lang.String" itemvalue="\css\style.css" />
+            <item index="4" class="java.lang.String" itemvalue="css\style.css" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="1" class="java.lang.String" itemvalue="bs4" />
+            <item index="2" class="java.lang.String" itemvalue="dj-database-url" />
+            <item index="3" class="java.lang.String" itemvalue="six" />
+            <item index="4" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="5" class="java.lang.String" itemvalue="django-heroku" />
+            <item index="6" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="7" class="java.lang.String" itemvalue="cffi" />
+            <item index="8" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="9" class="java.lang.String" itemvalue="cryptography" />
+            <item index="10" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="11" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="12" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="13" class="java.lang.String" itemvalue="PySocks" />
+            <item index="14" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="15" class="java.lang.String" itemvalue="Django" />
+            <item index="16" class="java.lang.String" itemvalue="certifi" />
+            <item index="17" class="java.lang.String" itemvalue="heroku" />
+            <item index="18" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="19" class="java.lang.String" itemvalue="pytz" />
+            <item index="20" class="java.lang.String" itemvalue="urllib3" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="store.models.Order.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
